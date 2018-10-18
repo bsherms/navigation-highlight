@@ -8,13 +8,14 @@ html {
     box-sizing: inherit;
   }
 
-h1 {
+}
+.header h1 {
   font-family: 'Sigmar One', cursive;
   background-color: #ffe500
 }
 
 .nav {
-  font-family: Georgia;
+  font-family: Georgia,serif;
   text-align: center;
 }
 
@@ -32,5 +33,3 @@ h1 {
   border-radius: 4px;
   text-decoration: none;
 }
-
-.nav a
