@@ -1,6 +1,7 @@
 html {
   html {
     box-sizing: border-box;
+
   }
 
   *, *::before, *::after {
@@ -19,11 +20,11 @@ html {
 }
 
 .nav a {
-  margin: .3em;
+  color: #fff;
+  display: inline-block;
   padding: 0 .75em .75em;
   background-color: #b2a212;
   border-radius: 4px;
-  color: #fff;
   text-decoration: none;
 }
 
