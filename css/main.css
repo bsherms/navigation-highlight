@@ -1,12 +1,12 @@
 html {
-    box-sizing: border-box;
-    background-color: #fff;
-    line-height: 1.5;
-  }
+  box-sizing: border-box;
+  background-color: #fff;
+  line-height: 1.5;
+}
 
-  *, *::before, *::after {
-    box-sizing: inherit;
-  }
+*, *::before, *::after {
+  box-sizing: inherit;
+}
 
 body {
   margin: .3em;
