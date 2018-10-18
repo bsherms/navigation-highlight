@@ -27,6 +27,7 @@ h1 {
 
 .nav {
   font-family: Georgia,serif;
+  color: #2f2d13;
   text-align: center;
 }
 
@@ -54,13 +55,9 @@ h2 {
   color: #b20953;
 }
 
-.nav .btn {
-  display: inline-block;
-  padding: .75em .75em;
-  color: #fff;
-  background-color: #b20953;
-  border-radius: 4px;
-  text-decoration: none;
+p {
+  font-family: Georgia,serif;
+  color: #2f2d13;
 }
 
 .nav .current {
