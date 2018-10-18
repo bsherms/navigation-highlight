@@ -8,11 +8,15 @@ html {
     box-sizing: inherit;
   }
 
+body {
+
+}
+
 h1 {
   font-family: 'Sigmar One', cursive;
   font-size: 3rem;
   text-align: center;
-  color: #cc1465;
+  color: #b20953;
 }
 
 .nav {
@@ -34,8 +38,30 @@ h1 {
   text-decoration: none;
 }
 
+.nav a:hover {
+  background-color: #cc1465;
+}
+
 h2 {
   font-family: 'Sigmar One', cursive;
   font-size: 1.875rem;
-  color: #cc1465
+  color: #b20953;
+}
+
+.nav .btn {
+  display: inline-block;
+  padding: .75em .75em;
+  color: #fff;
+  background-color: #b20953;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.nav .current {
+  display: inline-block;
+  padding: .75em .75em;
+  color: #fff;
+  background-color: #b20953;
+  border-radius: 4px;
+  text-decoration: none;
 }
