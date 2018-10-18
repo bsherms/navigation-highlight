@@ -40,7 +40,7 @@ h1 {
 .nav a {
   color: #fff;
   display: inline-block;
-  padding:.75em .75em;
+  padding: .75em;
   background-color: #b2a212;
   border-radius: 4px;
   text-decoration: none;
@@ -66,9 +66,14 @@ p {
 
 .nav .current {
   display: inline-block;
-  padding:.75em .75em;
+  padding: .75em;
   color: #fff;
   background-color: #b20953;
   border-radius: 4px;
   text-decoration: none;
+}
+
+img {
+  display: block;
+  width:
 }
