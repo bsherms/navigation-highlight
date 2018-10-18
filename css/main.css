@@ -9,7 +9,13 @@ html {
   }
 
 body {
+  margin: .3em;
+}
 
+header {
+  background-color: #ffe500;
+  padding: .2em .5em .3em;
+  margin: .3em;
 }
 
 h1 {
