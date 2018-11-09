@@ -32,7 +32,7 @@ h1 {
   color: #2f2d13;
   text-align: center;
   margin: 0;
-  padding: 0 0 .75em;
+  padding: 0 0 .3em;
 }
 
 .nav li {
@@ -58,7 +58,8 @@ h2 {
   font-family: "Sigmar One", cursive;
   font-size: 1.875rem;
   color: #b20953;
-  margin: .3em;
+  padding: .75em 0;
+
 }
 
 p {
