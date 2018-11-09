@@ -59,7 +59,6 @@ h2 {
   color: #b20953;
   margin: 0;
   padding: .75em 0;
-
 }
 
 p {
@@ -85,7 +84,7 @@ img {
 
 footer {
   background-color: #ffe500;
-  padding: .75em;
+  padding: 0;
   text-align: center;
 }
 
