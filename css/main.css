@@ -15,7 +15,7 @@ body {
 header {
   background-color: #ffe500;
   padding: .2em .5em .3em;
-  margin: .3em;
+  margin: 0;
 }
 
 h1 {
@@ -23,6 +23,7 @@ h1 {
   font-size: 3rem;
   text-align: center;
   color: #b20953;
+  margin: .3em;
 }
 
 .nav {
@@ -35,6 +36,7 @@ h1 {
 .nav li {
   list-style-type: none;
   display: inline-block;
+  margin: .3em;
 }
 
 .nav a {
@@ -75,5 +77,5 @@ p {
 
 img {
   display: block;
-  width:
+  width: 100%;
 }
